@@ -38,6 +38,7 @@ header {
     color: #fff;
     padding: 10px 0;
     display: flex;
+    flex-direction: rows;
     align-items: center;
     justify-content: space-between;
     position: sticky;
